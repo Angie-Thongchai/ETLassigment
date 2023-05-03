@@ -1,0 +1,47 @@
+{
+    "Stockholm": {
+        "": "0",
+        "city": "Stockholm",
+        "date": "04/30/23",
+        "temperature": "10.72",
+        "pressure": "1012",
+        "humidity": "37",
+        "weather_description": "clear sky"
+    },
+    "London": {
+        "": "0",
+        "city": "London",
+        "date": "04/30/23",
+        "temperature": "17.71",
+        "pressure": "1021",
+        "humidity": "51",
+        "weather_description": "scattered clouds"
+    },
+    "Madrid": {
+        "": "0",
+        "city": "Madrid",
+        "date": "04/30/23",
+        "temperature": "23.73",
+        "pressure": "1017",
+        "humidity": "36",
+        "weather_description": "few clouds"
+    },
+    "Rom": {
+        "": "0",
+        "city": "Rom",
+        "date": "04/30/23",
+        "temperature": "19.55",
+        "pressure": "1011",
+        "humidity": "71",
+        "weather_description": "light rain"
+    },
+    "Cairo": {
+        "": "0",
+        "city": "Cairo",
+        "date": "04/30/23",
+        "temperature": "23.42",
+        "pressure": "1014",
+        "humidity": "33",
+        "weather_description": "clear sky"
+    }
+}
